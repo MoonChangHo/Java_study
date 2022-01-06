@@ -8,6 +8,6 @@ public class Sol_10998 {
             int a=s.nextInt();
             int b=s.nextInt();
 
-            System.out.print((a*b));
+            System.out.print(a/(b*1.0));
         }
 }
